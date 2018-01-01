@@ -1,6 +1,7 @@
 syntax enable
 
 :command Nt NERDTree
+:imap jk <Esc>
 
 
 if empty(glob('~/.vim/autoload/plug.vim'))
