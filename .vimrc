@@ -23,7 +23,7 @@ let g:header_field_author = 'Ankur Goswami'
 let g:header_field_author_email = 'agoswam3@ucsc.edu'
 map <F4> :AddMinHeader<CR>
 
-imap jj <Esc>
+imap fd <Esc>
 
 :command Nt NERDTree
 
